@@ -4,11 +4,11 @@ Android Application that provides ride sharing functionality to chatrooms. Users
 
 ![](social-ride-sharing.jpg)
 
-Watch the video demonstrating the workflow of this application below.
+Click the links below to watch the video demonstrating the workflow of this application below.
 
-[Part1](https://www.youtube.com/watch?v=a-_K_EVyvvA&t=0s) 
+[Part1](https://www.youtube.com/watch?v=a-_K_EVyvvA&t=0s) | User profiles and chatroom messages
 
-[Part2](https://www.youtube.com/watch?v=cIK5y4v27Z4&t=0s) 
+[Part2](https://www.youtube.com/watch?v=cIK5y4v27Z4&t=0s) | Ride requests
 
 
 Technologies - Android, Java, Firebase Realtime database, Google Maps, Places Autocomplete, Google Directions API, Firebase Storage, Location Manager
