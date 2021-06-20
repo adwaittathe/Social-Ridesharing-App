@@ -6,14 +6,12 @@ Android Application that provides ride sharing functionality to chatrooms. Users
 
 Click the links below to watch the video demonstrating the workflow of this application below.
 
-[Part1](https://www.youtube.com/watch?v=a-_K_EVyvvA&t=0s) | User profiles and chatroom messages
+[Part 1](https://www.youtube.com/watch?v=a-_K_EVyvvA&t=0s) | User profiles and chatroom messages
 
-[Part2](https://www.youtube.com/watch?v=cIK5y4v27Z4&t=0s) | Ride requests
+[Part 2](https://www.youtube.com/watch?v=cIK5y4v27Z4&t=0s) | Ride requests
 
 
 Technologies - Android, Java, Firebase Realtime database, Google Maps, Places Autocomplete, Google Directions API, Firebase Storage, Location Manager
-
-Part 2 - https://www.youtube.com/watch?v=cIK5y4v27Z4
 
 - The application provides Authentication and Signup using Firebase Email/Password authentication. In addition it has forgot password feature that sends link to registered email address.
 - The user is able to create/edit profile. The data is stored on Firebase Realtime database and user images are stored in Firebase Storage.
